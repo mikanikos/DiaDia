@@ -1,0 +1,7 @@
+Stanze: Campus, Salone, N16
+Stanze speciali: 
+Inizio: Campus
+Vincente: N16
+Personaggi: 
+Attrezzi: martello 10 Campus, pinza 2 Salone, chiave 1 Salone
+Uscite: Salone nord N16, Campus nord Salone

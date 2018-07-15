@@ -1,2 +1,2 @@
 # DiaDia
-Simple game that uses object-oriented design patterns
+Simple game written in Java that uses basic object-oriented design patterns

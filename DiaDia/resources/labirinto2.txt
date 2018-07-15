@@ -1,0 +1,7 @@
+Stanze: N10, N11
+Stanze speciali: bloccata biblioteca chiave, magica N6 1, buia N9 lanterna, bloccata atrio passepartout 
+Inizio: N10
+Vincente: N11
+Personaggi: mago Merlino N10, cane Cagnaccio biblioteca
+Attrezzi: anretnal 2 Merlino, osso 4 atrio, chiave 2 N9, passepartout 3 Cagnaccio
+Uscite: biblioteca nord N10, biblioteca sud N11, biblioteca sud bloccata, biblioteca est atrio, atrio est N6, atrio est bloccata, atrio sud N9

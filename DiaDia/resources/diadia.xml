@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Configurazione del gioco DIADIA</comment>
+<entry key="elenco_comandi">guarda, vai, prendi, posa, interagisci, saluta, regala, aiuto, fine</entry>
+<entry key="numero_livelli">2</entry>
+<entry key="peso_max_borsa">10</entry>
+<entry key="cfu_iniziali">15</entry>
+<entry key="messaggio_benvenuto">Ti trovi nell'Universita', ma oggi e' diversa dal solito...
+Meglio andare al piu' presto in biblioteca a studiare. Ma dov'e'?
+I locali sono popolati da strani personaggi, alcuni amici, altri... chissà!
+Ci sono attrezzi che potrebbero servirti nell'impresa:
+puoi raccoglierli, usarli, posarli quando ti sembrano inutili
+o regalarli se pensi che possano ingraziarti qualcuno.
+
+Per conoscere le istruzioni usa il comando 'aiuto'.</entry>
+</properties>
